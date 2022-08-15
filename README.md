@@ -27,6 +27,9 @@
             src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40"
             height="40" />
     </a>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40"
+            height="40" />
+    </a>
 </td>
     <td>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
