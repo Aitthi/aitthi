@@ -3,7 +3,7 @@
 
 <table align="center">
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks / Library</th>
     <th>Languages</th>
     <th>Databases</th>
   </tr>
