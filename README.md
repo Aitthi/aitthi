@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aitthi</h1>
-<h3 align="center">AKA Detoro</h3>
+<h3 align="center">---</h3>
 
 <table align="center">
   <tr>
