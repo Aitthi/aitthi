@@ -1,111 +1,86 @@
-<h1 align="center">Hi 👋, I'm Aitthi</h1>
-<h3 align="center">---</h3>
+<h1 align="left">Hi 👋, I'm Aitthi</h1>
 
-<table align="center">
-  <tr>
-    <th>Frameworks / Library</th>
-    <th>Languages</th>
-    <th>Databases</th>
-  </tr>
-  <tr><td>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-            width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-            src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40"
-            height="40" />
-    </a>
-    <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40"
-            height="40" />
-    </a>
-</td>
-    <td>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-            width="40" height="40" />
-    </a></td>
-    <td>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" />
-    </a></td>
-  </tr>
-</table>
+###
 
-<table align="center">
-  <tr>
-    <th>Web server and Reverse proxy</th>
-    <th>DevOps Tools</th>
-  </tr>
-  <tr><td>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
-    </a>
-    <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png"
-            alt="openresty" width="40" height="40" />
-    </a>
-    <a href="https://traefik.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png?raw=truehttps://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png?raw=true"
-            alt="traefik" width="40" height="40" />
-    </a>
-</td>
-    <td>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" />
-    </a>
-    <a href="https://istio.io/" target="_blank" rel="noreferrer"> <img
-            src="https://istio.io/latest/img/istio-whitelogo-bluebackground-framed.svg"
-            alt="istio" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
-            height="40" />
-    </a></td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aitthi.Aitthi&"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=Aitthi" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=Aitthi" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Professionally I use,</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="52" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  height="50" width="52" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="50" width="52" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="52" alt="nginx logo" />
+  <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png"  height="50" width="52" alt="traefik logo" />
+  <img src="https://openresty.org/images/logo.png"  height="50" width="52" alt="openresty logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="50" width="52" />
+</div>
+
+###
+
+<h2 align="left">Recreationally I use,</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" width="52" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" width="52" alt="swift logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" width="52" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="52" alt="raspberrypi logo"  />
+</div>
+
+<h2 align="left">Tooling I use,</h2>
+
+###
+
+<div align="left">
+  <img src="https://istio.io/latest/img/istio-whitelogo-bluebackground-framed.svg" height="50" width="52" alt="istio logo"  />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="52" alt="grafana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="50" width="52" alt="digitalocean logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" width="52" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" width="52" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="52" alt="bash logo"  />
+</div>
+
+###
+
+
+###
+
+<h2 align="left">Get in touch,</h2>
+
+###
+
+<div align="left">
+<a href="mailto:meanstack20@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/Email - meanstack20@gmail.com-blue?logo=gmail&logoColor=white" alt="meanstack20@gmail.com"></a>
+<a href="https://www.linkedin.com/in/aitthi/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - aitthi-blue?logo=linkedin&logoColor=white" alt="Linkedin - aitthi"></a>
+<a href="https://paypal.me/aitthi" title="Send me money"><img src="https://img.shields.io/badge/PayPal - diw_112@hotmail.com-blue?logo=paypal&logoColor=white" alt="Linkedin - aitthi"></a>
+</div>
+
+###
