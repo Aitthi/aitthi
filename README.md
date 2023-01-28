@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-  <img src="https://istio.io/latest/img/istio-whitelogo-bluebackground-framed.svg" height="50" width="52" alt="istio logo"  />
+  <img src="https://github.com/istio/istio/raw/master/logo/istio-bluelogo-whitebackground-unframed.svg" height="50" width="52" alt="istio logo"  />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="52" alt="grafana logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="50" width="52" alt="digitalocean logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" width="52" alt="googlecloud logo"  />
