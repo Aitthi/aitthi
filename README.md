@@ -76,9 +76,7 @@
 ###
 
 <div align="left">
-<a href="mailto:meanstack20@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/Email - meanstack20@gmail.com-blue?logo=gmail&logoColor=white" alt="meanstack20@gmail.com"></a>
 <a href="https://www.linkedin.com/in/aitthi/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - aitthi-blue?logo=linkedin&logoColor=white" alt="Linkedin - aitthi"></a>
-<a href="https://paypal.me/starads" title="Send me money"><img src="https://img.shields.io/badge/PayPal - diw_112@hotmail.com-blue?logo=paypal&logoColor=white" alt="Linkedin - aitthi"></a>
 </div>
 
 ###
