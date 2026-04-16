@@ -1,82 +1,115 @@
-<h1 align="left">Hi 👋, I'm Aitthi</h1>
+<div align="center">
 
-###
+# `> aitthi_`
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aitthi.Aitthi&"  />
+**Infrastructure Engineer · Systems Architect · Rust & TypeScript**
+
+[![LinkedIn](https://img.shields.io/badge/-%40aitthi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitthi/)
+[![Visitors](https://komarev.com/ghpvc/?username=Aitthi&style=flat&color=1a1a2e&label=profile+views)](https://github.com/Aitthi)
+
 </div>
 
+---
 
-###
+<br>
+
+```
+🏗️  Building scalable infrastructure & high-performance systems
+🔧  Kubernetes · Traefik · Nginx · Bare-metal
+🦀  Rust enthusiast — when correctness matters
+⚡  From container orchestration to embedded hardware
+```
+
+<br>
+
+## `⎔` Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Production
+> _What runs in prod_
+
+**Languages** — TypeScript · Rust
+
+**Backend** — Axum · NestJS
+
+**Frontend** — Angular, React
+
+**Data** — MySQL · MongoDB · Redis
+
+**Infra** — Kubernetes · Traefik · Nginx · Istio
+
+**Cloud** — GCP · DigitalOcean · Docker
+
+**Observability** — Grafana
+
+</td>
+<td width="50%" valign="top">
+
+### Playground
+> _What I hack on weekends_
+
+**Frontend** — Vue.js · React
+
+**Mobile** — Swift
+
+**Web3** — Solidity
+
+**Hardware** — Arduino · Raspberry Pi
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `⎔` Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=Aitthi" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitthi&hide=jupyter%20notebook&theme=algolia&layout=compact&langs_count=8&hide_border=true" height="150" alt="stats graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aitthi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9" height="160" alt="stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitthi&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=8&hide_border=true&title_color=6C63FF&text_color=c9d1d9" height="160" alt="languages" />
+
 </div>
 
-###
+<br>
 
-<h2 align="left">Professionally I use,</h2>
+<div align="center">
 
-###
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aitthi&theme=github-dark-blue&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160" alt="streak" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="52" alt="typescript logo"  />
-  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="50" width="52" alt="rust logo"  />
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="50" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" width="52" alt="angular logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  height="50" width="52" alt="redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="50" width="52" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="52" alt="nginx logo" />
-  <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png"  height="50" width="52" alt="traefik logo" />
-  <img src="https://openresty.org/images/logo.png"  height="50" width="52" alt="openresty logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="50" width="52" />
 </div>
 
-###
+<br>
 
-<h2 align="left">Recreationally I use,</h2>
+## `⎔` Activity
 
-###
+<!--START_SECTION:activity-->
+<!-- GitHub Activity will auto-populate if you set up the GitHub Activity README action -->
+<!--END_SECTION:activity-->
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" width="52" alt="swift logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" width="52" alt="swift logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" width="52" alt="raspberrypi logo"  />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aitthi&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" alt="activity graph" />
+
 </div>
 
-<h2 align="left">Tooling I use,</h2>
+<br>
 
-###
+---
 
-<div align="left">
-  <img src="https://github.com/istio/istio/raw/master/logo/istio-bluelogo-whitebackground-unframed.svg" height="50" width="52" alt="istio logo"  />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="52" alt="grafana logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="50" width="52" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" width="52" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="52" alt="bash logo"  />
+<div align="center">
+
+```
+                    ╭──────────────────────────╮
+                    │  Infrastructure is code. │
+                    │  Code is infrastructure. │
+                    ╰──────────────────────────╯
+```
+
+<sub>**Bangkok, Thailand** · building things that scale</sub>
+
 </div>
-
-###
-
-
-###
-
-<h2 align="left">Get in touch,</h2>
-
-###
-
-<div align="left">
-<a href="https://www.linkedin.com/in/aitthi/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - aitthi-blue?logo=linkedin&logoColor=white" alt="Linkedin - aitthi"></a>
-</div>
-
-###
